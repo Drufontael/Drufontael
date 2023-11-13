@@ -30,3 +30,5 @@ Convido a todos a explorar meus perfis e me conhecer melhor.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![Drufontael](https://github-readme-stats.vercel.app/api/top-langs/?username=Drufontael&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
